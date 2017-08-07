@@ -13,7 +13,7 @@ Pelos requests, estamos postando publicamente o máximo que nos foi permitido dos
 na LARC 2014, em São Carlos - SP. Finalizamos o evento na terceira colocação do CoSpace Rescue, Primary e Secondary.
 
 Este Repo contém os códigos bases mais simples gerados pela Plataforma CoSpace e posteriormente aprimorados de uma maneira ou outra
-(Newbots) e o esqueleto do nosso algoritmo mapeador, contidos em Renatoes.
+(Newbots); o esqueleto do nosso algoritmo mapeador, contidos em Renatoes; e o Pré Alpha do pelancudo.
 
 Por mais que gostaríamos disponibilizar abertamente o Renato_Final_FORM.cs, pelancudo_out.cs e todo o resto dos arquivos 
 utilizados no evento, reservamos o direito de acesso total exclusivamente aos nossos apoiadores.
