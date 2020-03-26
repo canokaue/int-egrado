@@ -21,4 +21,4 @@ prático de C#, proposta de ideias e memes.
 
 Boa sorte no seu projeto, pegue bastante blocos!
 
-<img src="https://imgur.com/3A95svQ.png" align="center" />
+<img src="https://i.imgur.com/EcDpwe2.png" align="center" />
