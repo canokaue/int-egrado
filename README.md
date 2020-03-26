@@ -1,28 +1,24 @@
-            __                                         __                 
- __        /\ \__                                     /\ \                
-/\_\    ___\ \ ,_\         __     __   _ __    __     \_\ \    ___   __   
-\/\ \ /' _ `\ \ \/       /'__`\ /'_ `\/\`'__\/'__`\   /'_` \  / __`\/\_\  
- \ \ \/\ \/\ \ \ \_     /\  __//\ \L\ \ \ \//\ \L\.\_/\ \L\ \/\ \L\ \/_/_ 
-  \ \_\ \_\ \_\ \__\    \ \____\ \____ \ \_\\ \__/.\_\ \___,_\ \____/ /\ \
-   \/_/\/_/\/_/\/__/     \/____/\/___L\ \/_/ \/__/\/_/\/__,_ /\/___/  \ \/
-                                  /\____/                              \/ 
-                                  \_/__/                                 
-Felipe Martins, KauÍ Cano, Lufe Wadt e Matheus Camacho         S„o Paulo SP
+# Int Egrado;
 
-Pelos requests, estamos postando publicamente o m·ximo que nos foi permitido dos codes utilizados pela equipe Int egrado;
-na LARC 2014, em S„o Carlos - SP. Finalizamos o evento na terceira colocaÁ„o do CoSpace Rescue, Primary e Secondary.
+## Felipe Martins, Kau√™ Cano, Lufe Wadt e Matheus Camacho
+## Col√©gio Integrado Objetivo - S√£o Paulo SP
 
-Este Repo contÈm os cÛdigos bases mais simples gerados pela Plataforma CoSpace e posteriormente aprimorados de uma maneira ou outra
-(Newbots); o esqueleto do nosso algoritmo mapeador, contidos em Renatoes; e o PrÈ Alpha do pelancudo.
+Pelos requests, estamos postando publicamente o m√°ximo que nos foi permitido dos codes utilizados pela equipe Int egrado;
+na Latin American Robotics Competition 2014, em S√£o Carlos - SP. Finalizamos o evento na terceira coloca√ß√£o do CoSpace Rescue, Primary e Secondary.
 
-Aqui estar„o tambÈm os .pdf da nossa apresentaÁ„o em 2014, uma explicaÁ„o b·sica da plataforma de competiÁ„o
-e o TDP de um projeto de continuaÁ„o da equipe na UFSC, publicado em 2015.
+Este Repo cont√©m os c√≥digos bases mais simples gerados pela Plataforma CoSpace e posteriormente aprimorados de uma maneira ou outra
+(Newbots); o esqueleto do nosso algoritmo mapeador, contidos em Renatoes; e o Pr√© Alpha do pelancudo.
 
-Por mais que gostarÌamos disponibilizar abertamente o Renato_Final_FORM.cs, pelancudo_out.cs e todo o resto dos arquivos 
+Aqui estar√£o tamb√©m os .pdf da nossa apresenta√ß√£o em 2014, uma explica√ß√£o b√°sica da plataforma de competi√ß√£o
+e o TDP de um projeto de continua√ß√£o da equipe na UFSC, publicado em 2015.
+
+Por mais que gostar√≠amos disponibilizar abertamente o Renato_Final_FORM.cs, pelancudo_out.cs e todo o resto dos arquivos 
 utilizados no evento, reservamos o direito de acesso total exclusivamente aos nossos apoiadores.
 
 Agradecemos o Objetivo Integrado e especialmente a Malu por acreditar no nosso potencial. 
-Obrigado ao Prof Caniloi por nos aturar e guiar e, como n„o podia faltar, obrigado ao mito Renato Pacheco pelo masterclass
-pr·tico de C#, proposta de ideias e memes.
+Obrigado ao Prof Caniloi por nos aturar e guiar e, como n√£o podia faltar, obrigado ao mito Renato Pacheco pelo masterclass
+pr√°tico de C#, proposta de ideias e memes.
 
 Boa sorte no seu projeto, pegue bastante blocos!
+
+<img src="https://pasteboard.co/J0USzEa.png" align="center" />
