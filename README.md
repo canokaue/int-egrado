@@ -1,6 +1,6 @@
 # Int Egrado;
 
-## Felipe Martins, Kauê Cano, Lufe Wadt e Matheus Camacho
+### Felipe Martins, Kauê Cano, Lufe Wadt e Matheus Camacho
 ## Colégio Integrado Objetivo - São Paulo SP
 
 Pelos requests, estamos postando publicamente o máximo que nos foi permitido dos codes utilizados pela equipe Int egrado;
